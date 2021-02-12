@@ -1,0 +1,7 @@
+<network>
+	<name>NAT</name>
+	<bridge name="VIRBR"/>
+	<forward mode="TYPE"/>
+	<ip address="IP" netmask="MASK">
+	</ip>
+</network>

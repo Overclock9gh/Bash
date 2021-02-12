@@ -1,0 +1,15 @@
+Domain: 'VM21'
+  state.state=5
+  state.reason=0
+  balloon.current=1048576
+  balloon.maximum=1048576
+  vcpu.current=1
+  vcpu.maximum=1
+  block.count=2
+  block.0.name=vda
+  block.0.path=/home/VM/TP2/TP_VM/VM21.img
+  block.0.allocation=1284186112
+  block.0.capacity=12240656896
+  block.0.physical=1284243456
+  block.1.name=hda
+

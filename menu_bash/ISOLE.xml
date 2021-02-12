@@ -1,0 +1,6 @@
+<network>
+	<name>ISOLE</name>
+	<bridge name="VIRBR"/>
+	<ip address="IP" netmask="MASK">
+	</ip>
+</network>
